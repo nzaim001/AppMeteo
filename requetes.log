@@ -1,0 +1,2150 @@
+02/01/2018 00:33:25 - [ 200 OK ]
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 00:33:25 - [ 200 OK ]
+https://www.metaweather.com/api/location/580778/
+02/01/2018 00:33:26 - [ 200 OK ]
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 00:33:26 - [ 200 OK ]
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:33:26 - [ 200 OK ]
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:33:26 - [ 200 OK ]
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:36:35 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 00:36:36 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 00:36:37 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 00:36:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:36:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:36:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:40:29 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/
+02/01/2018 00:41:12 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 00:41:12 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 00:41:13 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 00:41:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:41:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:41:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:44:10 - [ 403 ERROR ] 
+https://www.metaweather.com/api/location/search/?query=
+02/01/2018 00:45:49 - [ 403 ERROR ] 
+https://www.metaweather.com/api/location/search/?query=
+02/01/2018 00:47:14 - [ 403 ERROR ] 
+https://www.metaweather.com/api/location/search/?query=
+02/01/2018 00:47:58 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 00:47:59 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 00:48:00 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 00:48:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:48:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:48:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:52:24 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 00:52:25 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 00:52:25 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 00:52:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:52:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:52:26 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:52:48 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 00:52:49 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 00:52:49 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 00:52:50 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:52:50 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:52:50 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:53:09 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 00:53:10 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 00:53:10 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 00:53:10 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:53:10 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:53:11 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:55:20 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 00:55:22 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 00:55:22 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 00:55:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:55:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:55:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:55:54 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 00:55:56 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 00:55:56 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 00:55:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:55:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 00:55:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:23:16 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:23:17 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:23:17 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:23:18 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:23:18 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:23:18 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:23:42 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:23:43 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:23:43 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:23:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:23:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:23:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:23:57 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:23:58 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:23:58 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:23:59 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:23:59 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:23:59 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:24:45 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:24:45 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:24:45 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:24:46 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:24:46 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:24:46 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:25:44 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:25:45 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:25:45 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:25:46 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:25:46 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:25:46 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:25:59 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:26:01 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:26:01 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:26:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:26:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:26:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:26:15 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:26:16 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:26:16 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:26:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:26:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:26:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:26:27 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:26:28 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:26:28 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:26:28 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:26:29 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:26:29 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:30:28 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:30:28 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:30:29 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:30:29 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:30:29 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:30:29 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:30:39 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:30:40 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:30:40 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:30:40 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:30:40 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:30:40 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:30:47 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:30:47 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:30:48 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:30:48 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:30:48 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:30:48 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:31:21 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:31:22 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:31:22 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:31:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:31:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:31:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:00 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:34:02 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:34:02 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:34:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:03 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:03 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:21 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:34:21 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:34:21 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:34:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:34 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:34:34 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:34:34 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:34:35 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:35 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:35 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:57 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:34:58 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:34:58 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:34:58 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:59 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:34:59 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:44:43 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:44:45 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:44:45 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:44:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:44:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:44:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:46:16 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:46:16 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:46:16 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:46:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:46:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:46:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:47:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:47:08 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:47:08 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:47:09 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:47:09 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:47:09 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:48:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:48:08 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:48:08 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:48:09 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:48:09 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:48:09 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:49:25 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:49:26 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:49:26 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:49:26 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:49:26 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:49:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:50:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:50:08 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:50:08 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:50:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:50:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:50:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:55:51 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:55:51 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:55:51 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:55:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:55:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:55:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:56:11 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:56:16 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:56:17 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:56:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:56:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:56:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:56:34 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:56:37 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:56:37 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:56:37 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:56:37 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:56:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:56:56 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:56:57 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:56:57 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:56:57 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:56:57 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:56:57 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:57:05 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:57:08 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:57:08 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:57:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:57:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:57:09 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:57:19 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:57:19 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:57:19 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:57:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:57:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:57:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:57:36 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:57:36 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:57:37 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:57:37 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:57:37 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:57:37 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:58:08 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:58:09 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:58:09 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:58:09 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:58:09 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:58:10 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:58:18 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:58:19 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:58:19 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:58:19 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:58:19 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:58:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:58:41 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 01:58:42 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 01:58:42 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 01:58:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:58:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:58:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 01:59:59 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:00:01 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:00:01 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:00:03 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:00:04 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:00:04 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:01:06 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:01:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:01:07 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:01:07 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:01:07 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:01:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:01:21 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:01:22 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:01:22 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:01:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:01:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:01:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:04 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:02:04 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:02:04 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:02:05 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:05 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:05 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:25 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:02:26 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:02:26 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:02:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:40 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:02:42 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:02:43 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:02:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:51 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:02:52 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:02:52 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:02:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:53 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:02:53 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:03:55 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:03:56 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:03:56 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:03:57 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:03:57 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:03:57 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:04:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:04:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:04:07 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:04:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:04:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:04:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:04:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:04:32 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:04:32 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:04:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:04:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:04:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:12:11 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:12:12 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:12:12 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:12:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:12:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:12:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:54:08 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:54:09 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:54:09 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:54:09 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:54:10 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:54:10 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:55:24 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 02:55:24 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 02:55:25 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 02:55:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:55:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 02:55:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:03:53 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:03:54 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:03:54 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:03:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:03:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:03:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:04:01 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:04:03 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:04:03 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:04:03 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:04:03 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:04:04 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:04:50 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:04:53 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:04:53 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:04:54 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:04:54 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:04:54 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:10:01 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:10:02 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:10:02 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:10:03 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:10:03 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:10:03 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:10:25 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:10:26 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:10:26 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:10:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:10:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:10:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:11:05 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:11:06 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:11:06 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:11:06 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:11:06 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:11:06 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:11:41 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:11:42 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:11:42 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:11:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:11:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:11:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:11:55 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:11:56 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:11:56 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:11:57 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:11:57 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:11:57 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:12:41 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:12:41 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:12:42 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:12:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:12:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:12:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:13:11 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:13:12 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:13:12 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:13:12 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:13:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:13:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:13:51 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:13:52 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:13:52 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:13:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:13:53 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:13:53 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:14:30 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:14:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:14:31 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:14:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:14:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:14:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:14:39 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:14:41 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:14:41 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:14:41 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:14:41 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:14:41 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:14:53 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:14:54 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:14:54 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:14:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:14:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:14:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:15:02 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:15:03 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:15:03 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:15:04 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:15:04 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:15:04 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:16:40 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:16:41 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:16:41 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:16:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:16:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:16:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:18:34 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:18:35 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:18:35 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:18:35 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:18:35 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:18:35 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:19:16 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+02/01/2018 03:19:16 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+02/01/2018 03:19:16 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+02/01/2018 03:19:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:19:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+02/01/2018 03:19:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:23:50 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 14:23:51 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 14:23:51 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+12/01/2018 14:23:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:23:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:23:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:25:04 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 14:25:05 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 14:25:05 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+12/01/2018 14:25:06 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:25:06 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:25:06 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 14:25:06 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:25:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 14:25:07 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+12/01/2018 14:25:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:25:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:25:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:27:20 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 14:27:21 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 14:27:21 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+12/01/2018 14:27:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:27:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:27:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:28:21 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 14:28:23 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 14:28:28 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+12/01/2018 14:28:29 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:28:29 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:28:29 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:36:04 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 14:36:06 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 14:36:23 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+12/01/2018 14:36:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:36:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:36:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:36:49 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 14:36:49 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 14:37:37 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+12/01/2018 14:37:37 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:37:37 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:37:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:39:05 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 14:39:06 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 14:39:14 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+12/01/2018 14:39:15 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:39:15 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 14:39:15 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 15:07:09 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 15:07:10 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 15:07:23 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+12/01/2018 15:07:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 15:07:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 15:07:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 15:13:25 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 15:13:26 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 15:15:52 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 15:15:53 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 15:17:09 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/Bordeaux
+12/01/2018 15:17:10 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 15:17:10 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 15:17:10 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22Bordeaux%22)&format=json
+12/01/2018 15:29:02 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=Bordeaux
+12/01/2018 15:29:03 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:08:18 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:08:20 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:08:20 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:08:21 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:08:21 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:08:21 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:09:01 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:09:02 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:09:02 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:09:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:09:03 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:09:03 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:12:10 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:12:11 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:12:11 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:12:12 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:12:12 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:12:12 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:12:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:12:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:12:31 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:12:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:12:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:12:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:12:59 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:13:00 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:13:00 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:13:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:13:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:13:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:17:29 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:17:29 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:17:29 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:17:30 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:17:30 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:17:30 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:19:44 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:23:23 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:23:24 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:23:24 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:23:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:23:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:23:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:23:36 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:23:37 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:23:37 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:23:37 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:23:37 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:25:23 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:25:24 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:25:24 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:25:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:25:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:25:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:33:32 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:33:34 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:33:34 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:33:34 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:33:35 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:33:35 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:34:00 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:34:01 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:34:01 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:34:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:34:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:34:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:34:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:34:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:34:08 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:34:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:34:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:34:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:34:49 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:34:50 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:34:50 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:34:51 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:34:51 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:34:51 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:34:59 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:35:00 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:35:00 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:35:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:35:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:35:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:35:19 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:35:20 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:35:20 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:35:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:35:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:35:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:40:48 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:40:48 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:40:48 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:40:49 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:40:49 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:40:49 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:41:13 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:41:13 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:41:13 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:41:14 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:41:14 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:41:14 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:41:30 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:41:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:41:31 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:41:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:41:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:41:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:41:53 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:41:54 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:41:54 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:41:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:41:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:41:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:42:13 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:42:13 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:42:13 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:42:14 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:42:14 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:42:14 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:42:18 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:42:19 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:42:19 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:42:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:42:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:42:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:42:25 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:42:25 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:42:26 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:42:26 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:42:26 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:42:26 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:54:37 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 16:54:37 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 16:54:37 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 16:54:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:54:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 16:54:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:25:40 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:25:42 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:25:42 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:25:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:25:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:25:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:25:51 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:25:51 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:25:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:25:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:25:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:35:33 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:35:34 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:35:34 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:35:34 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:35:35 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:35:35 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:36:10 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:36:10 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:36:10 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:36:11 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:36:11 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:36:11 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:36:30 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:36:32 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:36:32 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:36:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:36:33 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:36:33 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:39:54 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:39:55 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:39:55 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:39:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:39:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:39:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:40:38 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:40:39 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:40:39 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:40:40 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:40:40 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:40:40 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:03 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:41:04 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:41:04 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:41:05 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:05 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:05 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:21 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:41:21 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:41:22 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:41:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:22 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:36 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:41:37 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:41:37 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:41:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:49 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:41:50 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:41:50 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:41:51 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:51 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:41:51 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:42:30 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:42:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:42:31 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:42:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:42:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:42:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:42:49 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:42:50 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:42:50 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:42:50 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:42:51 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:42:51 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:43:23 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:43:24 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:43:24 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:43:24 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:43:24 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:43:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:43:37 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:43:38 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:43:38 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:43:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:43:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:43:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:43:46 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:43:47 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:43:47 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:43:47 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:43:48 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:43:48 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:43:59 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:44:00 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:44:00 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:44:00 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:44:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:44:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:44:14 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:44:15 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:44:15 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:44:15 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:44:15 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:44:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:45:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:45:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:45:07 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:45:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:45:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:45:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:45:17 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:45:19 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:45:19 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:45:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:45:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:45:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:47:15 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:47:16 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:47:17 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:47:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:47:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:47:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:47:30 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:47:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:47:31 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:47:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:47:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:47:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:48:29 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:48:30 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:48:31 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:48:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:48:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:48:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:49:40 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:49:41 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:49:41 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:49:41 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:49:41 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:49:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:50:43 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:50:44 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:50:44 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:50:44 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:50:44 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:50:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:52:39 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:52:41 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:52:41 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:52:41 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:52:41 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:52:42 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:54:00 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:54:01 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:54:01 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:54:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:54:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:54:02 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:54:14 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:54:15 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:54:15 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:54:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:54:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:54:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:54:37 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:54:38 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:54:38 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:54:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:54:38 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:54:39 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:55:23 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:55:24 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:55:24 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:55:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:55:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:55:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:55:32 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:55:32 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:55:32 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:55:33 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:55:33 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:55:33 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:56:43 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:56:44 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:56:44 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:56:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:56:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:56:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:56:51 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:56:52 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:56:52 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:56:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:56:53 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:56:53 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:57:58 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:57:59 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:57:59 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:58:00 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:00 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:00 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:22 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:58:23 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:58:23 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:58:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:24 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:24 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:45 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:58:46 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:58:46 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:58:47 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:47 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:47 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:57 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:58:58 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:58:58 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:58:59 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:59 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:58:59 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:59:14 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:59:15 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:59:15 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:59:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:59:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:59:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:59:34 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 17:59:35 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 17:59:35 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 17:59:36 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:59:36 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 17:59:36 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:00:18 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:00:19 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:00:19 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:00:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:00:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:00:20 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:00:30 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:00:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:00:31 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:00:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:00:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:00:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:01:26 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:01:27 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:01:27 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:01:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:01:28 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:01:28 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:01:43 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:01:44 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:01:44 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:01:44 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:01:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:01:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:02:21 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:02:22 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:02:22 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:02:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:02:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:02:23 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:02:58 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:02:59 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:03:00 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:03:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:03:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:03:01 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:04:23 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:04:24 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:04:24 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:04:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:04:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:04:25 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:04:26 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:04:27 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:04:27 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:04:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:04:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:04:27 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:07:16 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:07:16 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:07:16 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:07:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:07:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:07:17 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:07:53 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:07:55 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:07:55 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:07:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:07:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:07:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:10:30 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:10:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:10:31 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:10:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:10:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:10:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:11:54 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:11:55 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:11:55 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:11:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:11:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:11:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:12:25 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:12:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:12:31 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:12:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:12:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:12:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:12:55 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:12:56 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:12:56 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:12:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:12:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:12:57 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:13:42 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:13:42 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:13:42 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:13:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:13:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:13:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:13:54 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:13:55 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:13:55 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:13:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:13:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:13:56 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:15:15 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:15:15 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:15:15 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:15:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:15:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:15:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:19:42 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:19:43 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:19:43 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:19:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:19:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:19:43 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:22:53 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:22:53 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:22:54 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:22:54 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:22:54 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:22:54 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:23:04 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:23:06 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:23:06 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:23:07 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:23:07 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:23:07 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:23:14 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:23:15 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:23:15 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:23:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:23:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:23:16 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:06 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:24:07 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:24:07 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:24:07 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:07 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:08 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:13 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:24:14 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:24:15 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:24:15 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:15 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:15 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:29 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:24:30 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:24:31 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:24:31 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:32 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:42 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:24:43 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:24:43 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:24:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:50 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:24:51 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:24:51 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:24:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:24:52 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:25:37 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:25:38 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:25:39 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:25:39 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:25:39 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:25:39 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:27:31 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:27:33 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:27:33 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:27:33 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:27:33 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:27:34 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:29:44 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:29:45 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:29:45 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:29:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:29:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:29:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:38:52 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:38:54 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:38:54 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:38:54 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:38:54 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:38:55 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:45:42 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:45:44 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:45:44 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:45:44 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:45:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:45:45 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:46:09 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:46:10 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:46:10 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:46:11 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:46:11 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:46:11 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:47:11 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:47:11 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:47:11 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:47:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:47:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:47:13 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:47:19 - [ 200 OK ] 
+https://www.metaweather.com/api/location/search/?query=bordeaux
+12/01/2018 18:47:20 - [ 200 OK ] 
+https://www.metaweather.com/api/location/580778/
+12/01/2018 18:47:20 - [ 200 OK ] 
+https://www.prevision-meteo.ch/services/json/bordeaux
+12/01/2018 18:47:21 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20item%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:47:21 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20atmosphere%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
+12/01/2018 18:47:21 - [ 200 OK ] 
+https://query.yahooapis.com/v1/public/yql?q=select%20wind%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text=%22bordeaux%22)&format=json
